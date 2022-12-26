@@ -1,0 +1,98 @@
+.contact-form__content {
+    padding: 70px 0px;
+  }
+  
+  .contact-form__location {
+    border: 2px solid #f2f5f6;
+  }
+  
+  .location__heading {
+    padding: 10px 35px;
+    background-color: #f2f5f6;
+  }
+  
+  .location__heading h4 {
+    margin-top: 0px;
+    padding-left: 15px;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #222222;
+    letter-spacing: 0.2px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-left: 3px solid #f5a425;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 10px;
+    font-weight: 400;
+    line-height: 1.1;
+  }
+  
+  .location__map {
+    padding: 30px;
+    text-align: center;
+  }
+  
+  .contact-form__message {
+    border: 2px solid #f2f5f6;
+  }
+  
+  .message__heading {
+    padding: 10px 35px;
+    background-color: #f2f5f6;
+  }
+  
+  .message__heading h4 {
+    margin-top: 0px;
+    padding-left: 15px;
+    font-size: 16px;
+    text-transform: uppercase;
+    color: #222222;
+    letter-spacing: 0.2px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-left: 3px solid #f5a425;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 10px;
+    font-weight: 400;
+    line-height: 1.1;
+  }
+  
+  .message__body {
+    padding: 30px;
+  }
+  
+  .message__body input {
+    border: 2px solid #eeeeee;
+    width: 100%;
+    height: 44px;
+    outline: none;
+    margin-bottom: 30px;
+    padding-left: 15px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    color: #a8a8a8;
+  }
+  
+  .message__body textarea {
+    border: 2px solid #eeeeee;
+    width: 100%;
+    max-width: 100%;
+    min-height: 190px;
+    max-height: 220px;
+    outline: none;
+    padding: 10px 15px;
+    margin-bottom: 30px;
+    resize: none;
+  }
+  
+  .message__btn input {
+    width: 160px;
+    background-color: #f5a425;
+    padding: 10px 20px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 11px;
+    text-transform: uppercase;
+    color: #222222;
+    letter-spacing: 2px;
+    border: none;
+  }

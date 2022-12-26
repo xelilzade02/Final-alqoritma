@@ -1,0 +1,49 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+}
+.footer-header{
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+}
+.footer-header .icon{
+    display: flex;
+    gap: 15px;
+}
+.footer-header-icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+
+.footer__container{
+    display: flex;
+    gap: 15px;
+    justify-content: space-around;
+    
+}
+.footer__contents1{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+
+}
+.footer__contents1 ul{
+    gap: 20px;
+}
+.footer__contents2{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+
+}
+.footer__contents2 ul{
+    gap: 20px;
+}
+
+
+
+
+  
